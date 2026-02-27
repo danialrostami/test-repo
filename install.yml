@@ -1,1 +1,3 @@
 - name: 1-install gitlab packages
+  tasks:
+    - name: task for test1
